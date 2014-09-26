@@ -1,4 +1,4 @@
 sakai
 =====
 
-This repository is learning github.
+This repository is for training github.
